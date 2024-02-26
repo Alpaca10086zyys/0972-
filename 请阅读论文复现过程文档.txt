@@ -1,0 +1,15 @@
+1、
+same_stats.py是源代码；
+seed_datasets文件夹存放原始图形坐标excel文件；
+results文件夹将会存放变形过程中所有图形和坐标文件
+2、
+将same_stats.py和results和seed_datasets文件夹放在同一目录下，例如C:\Users\53421
+3、
+打开一个命令行窗口，例如CMD 或者 Anaconda Prompt等
+4、
+用命令行 
+python same_stats.py run dino circle
+其中run不可少
+dino表示原始点阵形状
+circle表示目标点阵形状
+变化过程中产生的所有点阵坐标和图像，在results文件夹里找
