@@ -15,7 +15,8 @@ python Same_Stats.py run [Shape_Start] [Shape_end] <iters=100000> <decimals=2> <
 缺少的模块请自行安装。
 
 本实验源码提供生成gif的代码文件，同样用命令行运行，但由于笔者太懒没有写解析命令行的功能，所以输入```python gen_gif.py```后需要换行输入
-```Shape_Start
+```
+Shape_Start
 Shape_end
 iters
 ```
